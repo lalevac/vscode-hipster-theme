@@ -1,0 +1,22 @@
+{
+    "name": "vscode-hipster-theme",
+    "displayName": "vscode-hipster-theme",
+    "description": "An adaptation of Atom's Hipster theme for Visual Studio Code",
+    "version": "0.0.1",
+    "publisher": "ModoNoob",
+    "engines": {
+        "vscode": "^1.24.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hipster",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Hipster-color-theme.json"
+            }
+        ]
+    }
+}
