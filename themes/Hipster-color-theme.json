@@ -2,16 +2,47 @@
 	"name": "Hipster",
 	"type": "dark",
 	"colors": {
+		"focusBorder": "#1abc9c",
+		"foreground": "#ecf0f1",
+		"selection.background": "#1abc9c",
+
+		"button.background": "#1abc9c",
+		"button.foreground": "#ecf0f1",
+		"button.hoverBackground": "#149178",
+
+		"input.background": "#2c3e50",
+		"input.foreground": "#ecf0f1",
+		"input.placeholderForeground": "#ffffff7e",
+		"inputOption.activeBorder": "#1abc9c",
+		"inputValidation.errorBackground": "#ca2121",
+		"inputValidation.errorBorder": "#ca2121",
+		"inputValidation.infoBackground": "#5dbad1",
+		"inputValidation.infoBorder": "#5dbad1",
+		"inputValidation.warningBackground": "#dd9b21",
+		"inputValidation.warningBorder": "#dd9b21",
+
+		"dropdown.background": "#2c3e50",
+		"dropdown.foreground": "#ecf0f1",
+		"dropdown.listBackground": "#2c3e50",
+
+		"scrollbarSlider.background": "#1abc9c3f",
+		"scrollbarSlider.activeBackground": "#1abc9c",
+		"scrollbarSlider.hoverBackground": "#1abc9c",
+		"scrollbar.shadow": "#00000088",
+
+		"progressBar.background": "#1abc9c",
+
 		"editor.background": "#2c3e50",
 		"editor.foreground": "#ecf0f1",
 
 		"activityBarBadge.background": "#007acc",
 
 		"sideBarTitle.foreground": "#bbbbbb",
-		"sideBarSectionHeader.background": "#dddddd",
+		"sideBarSectionHeader.background": "#cccccc",
+		"sideBarSectionHeader.foreground": "#5c5959",
+
 		"sideBar.background": "#eeeeee",
 		"sideBar.foreground": "#5c5959",
-		"sideBar.border": "#2c3e50",
 
 		"editorLineNumber.foreground": "#F4BBB5",
 
@@ -33,8 +64,15 @@
 		"list.hoverBackground": "#dddddd",
 		"list.inactiveSelectionBackground": "#dddddd",
 
+		"notificationCenterHeader.background": "#cccccc",
+		"notificationCenterHeader.foreground": "#5c5959",
+		"notifications.background": "#dddddd",
+		"notifications.foreground": "#5c5959",
+
 		"gitDecoration.modifiedResourceForeground": "#ff8b2d",
-		"gitDecoration.untrackedResourceForeground": "#17c984"
+		"gitDecoration.untrackedResourceForeground": "#17c984",
+		"gitDecoration.ignoredResourceForeground": "#cfcfcf",
+		"gitDecoration.conflictingResourceForeground": "#eb2525"
 	},
 	"tokenColors": [
 		{
