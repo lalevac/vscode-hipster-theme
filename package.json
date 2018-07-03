@@ -1,9 +1,13 @@
 {
     "name": "vscode-hipster-theme",
     "displayName": "vscode-hipster-theme",
-    "description": "An adaptation of Atom's Hipster theme for Visual Studio Code",
-    "version": "0.0.1",
+    "description": "A theme for Visual Studio Code inspired by Atom's Hipster theme.",
+    "version": "1.0.0",
     "publisher": "ModoNoob",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ModoNoob/vscode-hipster-theme"
+    },
     "engines": {
         "vscode": "^1.24.0"
     },
