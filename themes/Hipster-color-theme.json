@@ -120,10 +120,24 @@
 		"peekViewTitle.background": "#c25044",
 		"peekViewTitleDescription.foreground": "#ecf0f1bb",
 
-		"notificationCenterHeader.background": "#1abc9c",
+		"panel.background": "#2c3e50",
+		"panel.dropBackground": "#1abc9c3f",
+
+		"statusBar.background": "#dddddd",
+		"statusBar.foreground": "#2c3e50",
+		"statusBar.debuggingBackground": "#ec6051",
+		"statusBar.debuggingForeground": "#ecf0f1",
+		"statusBar.noFolderBackground": "#1abc9c",
+		"statusBar.noFolderForeground": "#ecf0f1",
+		"statusBarItem.activeBackground": "#00000022",
+		"statusBarItem.hoverBackground": "#00000011",
+		"statusBarItem.prominentBackground": "#1abc9c71",
+		"statusBarItem.prominentHoverBackground": "#1abc9c94",
+
 		"notificationCenterHeader.foreground": "#ecf0f1",
-		"notifications.background": "#2c3e50",
+		"notificationCenterHeader.background": "#1abc9c",
 		"notifications.foreground": "#ecf0f1",
+		"notifications.background": "#2c3e50",
 		"notificationLink.foreground": "#ecf0f1",
 
 		"gitDecoration.modifiedResourceForeground": "#ff8b2d",
