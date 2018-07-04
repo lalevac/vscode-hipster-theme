@@ -1,19 +1,32 @@
 {
     "name": "vscode-hipster-theme",
-    "displayName": "vscode-hipster-theme",
-    "description": "A theme for Visual Studio Code inspired by Atom's Hipster theme.",
-    "version": "1.0.0",
+    "displayName": "Hipster Theme",
+    "description": "A very colorful theme inspired by Atom's Hipster theme.",
+    "version": "1.0.1",
     "publisher": "ModoNoob",
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/ModoNoob/vscode-hipster-theme"
     },
     "engines": {
-        "vscode": "^1.24.0"
+        "vscode": "^1.21.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "hipster",
+        "theme",
+        "dark",
+        "light",
+        "colorful"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#2C3E50",
+        "theme": "dark"
+    },
     "contributes": {
         "themes": [
             {
@@ -22,5 +35,26 @@
                 "path": "./themes/Hipster-color-theme.json"
             }
         ]
-    }
+    },
+    "bugs": {
+        "url": "https://github.com/ModoNoob/vscode-hipster-theme/issues"
+    },
+    "homepage": "https://github.com/ModoNoob/vscode-hipster-theme",
+    "badges": [
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/version/ModoNoob.vscode-hipster-theme.svg",
+            "href": "https://marketplace.visualstudio.com/items/ModoNoob.vscode-hipster-theme",
+            "description": "Theme version"
+        },
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/rating/ModoNoob.vscode-hipster-theme.svg",
+            "href": "https://marketplace.visualstudio.com/items/ModoNoob.vscode-hipster-theme",
+            "description": "Theme rating"
+        },
+        {
+            "url": "https://vsmarketplacebadge.apphb.com/installs/ModoNoob.vscode-hipster-theme.svg",
+            "href": "https://marketplace.visualstudio.com/items/ModoNoob.vscode-hipster-theme",
+            "description": "Theme installs"
+        }
+    ]
 }
