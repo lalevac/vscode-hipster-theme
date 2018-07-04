@@ -1,7 +1,9 @@
 # Change Log
-All notable changes to the "vscode-hipster-theme" extension will be documented in this file.
+All notable changes to the Hipster theme will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.0.1]
+- Updated README.md
+- Made the Marketplace page prettier
 
-## [Unreleased]
-- Initial release
+## [1.0.0]
+- Initial release of the extension
