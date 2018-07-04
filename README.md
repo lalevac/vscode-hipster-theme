@@ -4,7 +4,7 @@
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/ModoNoob.vscode-hipster-theme.svg)](https://marketplace.visualstudio.com/items/ModoNoob.vscode-hipster-theme)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/ModoNoob.vscode-hipster-theme.svg)](https://marketplace.visualstudio.com/items/ModoNoob.vscode-hipster-theme)
 
-VSCode theme based on the [Atom Hipster](https://github.com/Agnostics/atom-hipster-ui) theme.
+A very colorful VSCode theme based on the [Atom Hipster](https://github.com/Agnostics/atom-hipster-ui) theme.
 
 ![Theme screenshot](screenshot.png)
 
