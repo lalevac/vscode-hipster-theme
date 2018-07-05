@@ -1,10 +1,17 @@
+<center>
+<img src='icon.png'>
+
 # Hipster Theme
 
 [![Marketplace](https://vsmarketplacebadge.apphb.com/version-short/ModoNoob.vscode-hipster-theme.svg)](https://marketplace.visualstudio.com/items/ModoNoob.vscode-hipster-theme)
 [![Rating](https://vsmarketplacebadge.apphb.com/rating-short/ModoNoob.vscode-hipster-theme.svg)](https://marketplace.visualstudio.com/items/ModoNoob.vscode-hipster-theme)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/ModoNoob.vscode-hipster-theme.svg)](https://marketplace.visualstudio.com/items/ModoNoob.vscode-hipster-theme)
 
-A very colorful VSCode theme based on the [Atom Hipster](https://github.com/Agnostics/atom-hipster-ui) theme.
+<strong>A very colorful Visual Studio Code theme based on the [Atom Hipster](https://github.com/Agnostics/atom-hipster-ui) theme.</strong>
+
+[Installing](#Installing) • [Credits](#Credits)
+
+</center>
 
 ![Theme screenshot](screenshot.png)
 
