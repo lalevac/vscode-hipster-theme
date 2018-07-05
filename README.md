@@ -1,18 +1,28 @@
-<center>
-<img src='icon.png'>
+<h1 align='center'>
+  <img src='icon.png' />
+  <br>
+  Hipster Theme
+</h1>
 
-# Hipster Theme
+<p align='center'>
+  <a href='https://marketplace.visualstudio.com/items/ModoNoob.vscode-hipster-theme'>
+    <img src='https://vsmarketplacebadge.apphb.com/version-short/ModoNoob.vscode-hipster-theme.svg' alt='Marketplace' />
+  </a>
+  <a href='https://marketplace.visualstudio.com/items/ModoNoob.vscode-hipster-theme'>
+    <img src='https://vsmarketplacebadge.apphb.com/rating-short/ModoNoob.vscode-hipster-theme.svg' alt='Rating' />
+  </a>
+  <a href='https://marketplace.visualstudio.com/items/ModoNoob.vscode-hipster-theme'>
+    <img src='https://vsmarketplacebadge.apphb.com/installs/ModoNoob.vscode-hipster-theme.svg' alt='Installs' />
+  </a>
+</p>
 
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version-short/ModoNoob.vscode-hipster-theme.svg)](https://marketplace.visualstudio.com/items/ModoNoob.vscode-hipster-theme)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/ModoNoob.vscode-hipster-theme.svg)](https://marketplace.visualstudio.com/items/ModoNoob.vscode-hipster-theme)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs/ModoNoob.vscode-hipster-theme.svg)](https://marketplace.visualstudio.com/items/ModoNoob.vscode-hipster-theme)
+<p align='center'>
+  <strong>
+    A very colorful Visual Studio Code theme based on the <a href='https://github.com/Agnostics/atom-hipster-ui'>Atom Hipster</a> theme. 
+  </strong>
+</p>
 
-<strong>A very colorful Visual Studio Code theme based on the [Atom Hipster](https://github.com/Agnostics/atom-hipster-ui) theme.</strong>
-
-[Installing](#Installing) • [Credits](#Credits)
-
-</center>
-
+## Screenshot
 ![Theme screenshot](screenshot.png)
 
 ## Installing
